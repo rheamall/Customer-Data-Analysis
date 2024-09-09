@@ -1,2 +1,3 @@
-# Customer-Data-Analysis
-Scraping and analysing customer review data to uncover findings for British Airways and building a predictive model to understand factors that influence buying behaviour.
+# Customer Data Analysis
+
+Scraped and analysed customer review data using a large language model (LLM) to uncover findings for British Airways. Developed predictive machine learning models, achieving a prediction accuracy of 85.1%, to discover factors that influence buying behaviour.
