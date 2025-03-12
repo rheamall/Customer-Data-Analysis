@@ -22,15 +22,8 @@ The aim of this project was to analyze customer review data and predict factors 
 ### Key Actionable Insights
 
 #### Customer Reviews 
-- 43.4% of the customer reviews were of a negative sentiment, and 30.4% were positive.
-- Using Latent Dirichlet allocation, I segregated the reviews into 5 broad topics:
-  1. Check-in, boarding and luggage
-  2. Customer service and booking
-  3. Customer service, seat and class experience
-  4. In-flight experience
-  5. Flight timings and delays
 
-I identified common pain points in reviews, such as flight delays and customer service, which negatively impacted customer sentiment. A majority of the reviews centred around in-flight experience were **positive**, and a vast majority of reviews centred around customer service were **negative**. Addressing these areas could significantly enhance customer satisfaction and brand loyalty.
+43.4% of the customer reviews were of a negative sentiment, and 30.4% were positive. I identified common pain points in reviews, such as flight delays and customer service, which negatively impacted customer sentiment. A majority of the reviews centred around in-flight experience were **positive**, and a vast majority of reviews centred around customer service were **negative**. Addressing these areas could significantly enhance customer satisfaction and brand loyalty.
 
 #### Flights Booking Behaviour Analysis
 - Irrespective of the duration of the flight, 60% or more customers wanted extra baggage allowance in their booking. 
