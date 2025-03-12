@@ -28,10 +28,12 @@ The aim of this project was to analyze customer review data and predict factors 
 #### Flights Booking Behaviour Analysis
 - Irrespective of the duration of the flight, 60% or more customers wanted extra baggage allowance in their booking. 
 - Less than 35% of customers wanted a preferred choice of seat when booking a flight. However, more passengers wanted a preferred seat when the flight duration was longer. More passengers also wanted an in-flight meal when the flight duration is longer.
-- The random forest classifier had an accuracy of **85.1%** when predicting whether or not a particular customer would complete their booking. The three most influential factors in this prediction were:
+
+The random forest classifier had an accuracy of **85.1%** when predicting whether or not a particular customer would complete their booking. The three most influential factors in this prediction were:
   1. purchase_lead = number of days between travel date and booking date
   2. flight_hour = hour of flight departure
   3. length_of_stay = number of days spent at destination
+
 Understanding these factors would allow for better customer segmentation and tailored marketing strategies. For instance, customers booking closer to the travel date might be more responsive to last-minute deals, whereas those booking far in advance could benefit from early-bird discounts.
 
 ### Conclusion
