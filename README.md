@@ -1,6 +1,6 @@
 # Customer Data Analysis
 
-Scraped and analysed customer review data using a large language model (LLM) to uncover findings for British Airways. Developed predictive machine learning models, achieving a prediction accuracy of 85.1%, to discover factors that influence buying behaviour.
+Summary: I scraped and analysed customer review data using a large language model (LLM) to uncover findings for British Airways. Then, I developed predictive machine learning models, achieving a prediction accuracy of 85.1%, to discover factors that influence buying behaviour. 
 
 ### Objectives
 
@@ -39,6 +39,8 @@ Understanding these factors would allow for better customer segmentation and tai
 ### Conclusion
 
 I made use of NLP to extract valuable insights from customer reviews, and by leveraging a combination of machine learning models, I uncovered factors influencing customer booking behavior with 85.1% accuracy. These insights can help British Airways refine marketing strategies, enhance customer service and optimize pricing models. Continuous iteration and experimentation with advanced techniques could further refine these predictions and drive better business outcomes.
+
+**Credits**: This project was part of British Airways' virtual job simulation on Forage.
 
 ### Feedback is welcome. Connect with me:
 
