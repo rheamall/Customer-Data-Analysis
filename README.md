@@ -29,6 +29,7 @@ The aim of this project was to analyze customer review data and predict factors 
   3. Customer service, seat and class experience
   4. In-flight experience
   5. Flight timings and delays
+
 I identified common pain points in reviews, such as flight delays and customer service, which negatively impacted customer sentiment. A majority of the reviews centred around in-flight experience were **positive**, and a vast majority of reviews centred around customer service were **negative**. Addressing these areas could significantly enhance customer satisfaction and brand loyalty.
 
 #### Flights Booking Behaviour Analysis
